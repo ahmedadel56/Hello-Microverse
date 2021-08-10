@@ -8,10 +8,9 @@ This project Is for testing my ability to make a good documentation for my repo,
 # Built With
 * HTML
 * CSS
-* JAVASCRIPT
 
 # Live Demo
-
+* https://ahmedadel56.github.io/Hello-microverse/
 # Prerequisites
 Just Google Chrome
 

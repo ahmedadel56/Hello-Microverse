@@ -1,4 +1,5 @@
 # Hello-Microverse
+![image](https://user-images.githubusercontent.com/43178495/128925173-41870ba2-c616-498c-a57b-74c0aebc21c7.png)
 That is my First repo for Microverse 
 
 # Additional description about the project and its features.
@@ -10,8 +11,6 @@ This project Is for testing my ability to make a good documentation for my repo,
 * CSS
 
 # Live Demo
-![image](https://user-images.githubusercontent.com/43178495/128924927-951c9f6d-746f-480c-a288-9ec8b1fd3c9d.png)
-
 * https://ahmedadel56.github.io/Hello-microverse/
 # Prerequisites
 Just Google Chrome
